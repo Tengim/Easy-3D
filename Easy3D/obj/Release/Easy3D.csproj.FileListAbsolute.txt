@@ -1,0 +1,47 @@
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\bin\Release\Easy3D.exe.config
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\bin\Release\Easy3D.exe
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\bin\Release\Easy3D.pdb
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.csproj.AssemblyReference.cache
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\MainWindow.g.cs
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\App.g.cs
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.cache
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.lref
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\MainWindow.baml
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.g.resources
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.Properties.Resources.resources
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.csproj.GenerateResource.cache
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.csproj.CoreCompileInputs.cache
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.exe
+C:\Users\Tengou\source\repos\Easy3D\Easy3D\obj\Release\Easy3D.pdb
+D:\Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.exe.config
+D:\Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.exe
+D:\Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.pdb
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.AssemblyReference.cache
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\MainWindow.g.cs
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\App.g.cs
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.cache
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.lref
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\MainWindow.baml
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.g.resources
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.Properties.Resources.resources
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.GenerateResource.cache
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.CoreCompileInputs.cache
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.exe
+D:\Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.pdb
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.AssemblyReference.cache
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\MainWindow.g.cs
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\App.g.cs
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.cache
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D_MarkupCompile.lref
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.exe
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.pdb
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.exe.config
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.exe
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Easy3D.pdb
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\MainWindow.baml
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.g.resources
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.Properties.Resources.resources
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.GenerateResource.cache
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\obj\Release\Easy3D.csproj.CoreCompileInputs.cache
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Source\block.png
+D:\My_Games\progi\WPF progects\Easy3D\Easy3D\bin\Release\Source\brick.png
